@@ -1,0 +1,10 @@
+{
+	"name": "Aurora",
+	"description": "Modern, premium responsive theme with light/dark mode, card-based layout and gradient accents.",
+	"version": "1.0",
+	"date": "2026-05-24",
+	"author": "Ajink Gupta",
+	"author_uri": "https://thevibe.engineer",
+	"license": "GPLv2",
+	"min_q2a": "1.7"
+}
